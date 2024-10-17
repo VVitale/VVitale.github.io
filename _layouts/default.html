@@ -8,6 +8,47 @@
 <body>
 
     <header>
+        </nav>
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <style>
+        /* Style the navigation bar */
+        nav ul {
+            list-style-type: none; /* Remove bullets */
+            padding: 0; /* Remove default padding */
+            margin: 0; /* Remove default margin */
+            overflow: hidden; /* Clear floats */
+            background-color: #333; /* Background color */
+        }
+
+        /* Display the list items horizontally */
+        nav ul li {
+            float: left; /* Align the list items horizontally */
+        }
+
+        /* Style the links */
+        nav ul li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+
+        /* Change color on hover */
+        nav ul li a:hover {
+            background-color: #111;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <header>
         <nav>
             <ul>
                 <li><a href="/">Home</a></li>
@@ -17,6 +58,20 @@
                 <li><a href="/contact.md">Contact</a></li>
             </ul>
         </nav>
+    </header>
+
+    <!-- Page Content -->
+    <main>
+        {{ content }}
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>Created by Your Name</p>
+    </footer>
+
+</body>
+</html>
     </header>
 
     <main>
