@@ -5,11 +5,6 @@ title: About Me
 
 # About Me
 
-Certainly! Here's the updated version of your **"About Me"** section with the added information about your contributions to the **Wannier90** and **ONETEP** codes:
-
----
-
-**About Me**  
 I am **Valerio Vitale**, PhD, currently a **Marie Skłodowska-Curie Fellow** at the Department of Physics, University of Trieste. My research focuses on theoretical and computational methods in condensed matter physics and materials science, with a special emphasis on **moiré superlattices** and **twisted bilayer materials**. Over the course of my academic journey, I have developed novel techniques in **ab initio molecular dynamics** and contributed to advancements in the understanding of **strongly correlated states** in materials such as **transition metal dichalcogenides**.
 
 I am a **member of the developer team** for the **Wannier90 code**, which is widely used in the computational materials science community for the calculation of maximally localized Wannier functions. Additionally, I have contributed to other computational codes, such as **ONETEP**, which is designed for linear-scaling density functional theory calculations. These tools are essential for enabling high-throughput simulations and studying the electronic properties of complex systems.
