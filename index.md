@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Research Page
+# Welcome to Valerio Vitale research page
 
 This is my personal website where I share my research and academic work.
 
