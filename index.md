@@ -7,7 +7,8 @@ title: Home
 
 This is my personal website where I share my research and academic work.
 
-<img src="images/figure2.jpg" alt="TMD trilayer" width="100%" />
+<img src="/images/tmd.gif" alt="Research GIF" width="100%" />
+
 
 ## Sections
 - [About Me](about.md)
