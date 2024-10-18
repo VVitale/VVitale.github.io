@@ -7,7 +7,7 @@ title: Home
 
 This is my personal website where I share my research and academic work.
 
-<img src="/images/half_slowed_down_looping_tmd_gif.gif" alt="Research GIF" width="100%" />
+<img src="/images/slowed_down_looping_tmd_gif.gif" alt="Research GIF" width="100%" />
 
 
 ## Sections
