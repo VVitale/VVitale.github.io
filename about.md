@@ -5,7 +5,7 @@ title: About Me
 
 # About Me
 
-![Waterfall near Covel lake in Trentino](images/IMG20240714133612.jpg)
+<img src="images/IMG20240714133612.jpg" alt="Waterfall near Covel lake in Trentino" width="200" />
 
 Hi there! I am **Valerio Vitale**, currently a **Marie Skłodowska-Curie Fellow** at the Department of Physics, University of Trieste. My research focuses on theoretical and computational methods in condensed matter physics and materials science, with a special emphasis on **moiré superlattices** and **twisted bilayer materials**. Over the course of my academic journey, I have developed novel techniques in **ab initio molecular dynamics** and contributed to advancements in the understanding of **strongly correlated states** in materials such as **transition metal dichalcogenides**.
 
