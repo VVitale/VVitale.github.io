@@ -5,5 +5,7 @@ title: Contact
 
 # Contact
 
-Feel free to get in touch with me at [your email].
+email: valerio.vitale .at. units.it
+GitHub: VVitale
+GitLab: VVitale87
 
