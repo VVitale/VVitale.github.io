@@ -5,6 +5,15 @@ title: UNICOSMOS
 
 Here is a summary of my MSCA project **UNICOSMOS** - *Unravelling the intertwined correlated states of matter in moire' superlattices*.
 
+The recent discovery of various quantum correlated phases, including superconductivity and correlated insulating states, in twisted bilayers of 2D materials has generated significant interest and spurred extensive research into these phenomena, sparking an entire new field of research known as *twistronics*. The ability to engineer quantum states of matter with a few adjustable experimental parameters, such as the twist angle between two 2D layers, represents a major breakthrough in the field of so-called moiré materials. In particular, moiré materials composed of transition metal dichalcogenides (TMDs) have gained considerable traction as a robust platform for simulating quantum phases of matter on emergent 2D lattices.
+
+Although it is widely recognized that enhanced electron-electron interactions drive the quantum phases in moiré materials, the precise quantum nature of many of these correlated phases remains poorly understood. First-principles theoretical and computational methods offer a powerful means to interpret experimental findings and predict new quantum phases. However, conventional methods such as density functional theory (DFT) are computationally prohibitive for moiré systems, which typically involve unit cells with thousands of atoms, and are generally insufficient for addressing the complexities of strongly correlated materials. A new approach is therefore essential.
+
+In UNICOSMOS I propose to develop an efficient multi-scale framework that integrates various theoretical and computational techniques to investigate quantum phases in TMD moiré superlattices. Specifically, I will combine classical force field calculations, *ab initio* tight-binding methods, and many-body approaches to overcome the limitations of conventional first-principles methods, while preserving their predictive accuracy.
+
+
+## Publications
+
 **"The interplay of field-tunable strongly correlated states in a multi-orbital moiré system"**:
 
 In this article, we explored the complex behavior of **strongly correlated electronic states** within a **multi-orbital moiré superlattice** consisting of a rotated MoSe<sub>2</sub> monolayer onto a WSe<sub>2</sub> *2H* bilayer. Using advanced experimental techniques and theoretical modeling, we investigated how correlated states emerge upon *hole* doping and how they can be controlled and tuned by applying external electric fields perpendicular to the plane of the trilayer. We found that by manipulating the perpendicular electric field, the system transition between &Gamma-derived and K/K'-derived correlated phases, revealing intricate interplay between orbital, spin and layer degrees of freedom and correlated states. This work has significant implications for the development of next-generation electronic devices, where precise control of strongly correlated systems is essential for applications such as quantum computing and advanced electronics.

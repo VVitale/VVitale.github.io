@@ -3,9 +3,6 @@ layout: default
 title: Publications
 ---
 
-# Publications
-
-### Publications
 
 1. **Mohebpour, M. A., Izadi Vishkayi, S., Vitale, V., Seriani, N., & Tagani, M. B.** (2024). Origin and properties of the flat band in monolayer NbOCl₂. *Physical Review B, 110*(035429). [Link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.035429)
 
