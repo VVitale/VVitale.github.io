@@ -15,5 +15,7 @@ This is my personal website where I share my research and academic work.
 - [UNICOSMOS](unicosmos.md)
 - [Publications](publications.md)
 - [Codes](codes.md)
+- [Events](events.md)
 - [Contact](contact.md)
+
 

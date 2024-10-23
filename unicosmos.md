@@ -11,6 +11,9 @@ Although it is widely recognized that enhanced electron-electron interactions dr
 
 In UNICOSMOS I propose to develop an efficient multi-scale framework that integrates various theoretical and computational techniques to investigate quantum phases in TMD moiré superlattices. Specifically, I will combine classical force field calculations, *ab initio* tight-binding methods, and many-body approaches to overcome the limitations of conventional first-principles methods, while preserving their predictive accuracy.
 
+<img src="/images/summaray.jpg" alt="Schematics of charge-ordered state in a TMD moire trilayer, highlighting the emergence of triangular and honeycomb lattices" width="50%" />
+
+[link to CORDIS page](https://cordis.europa.eu/project/id/101067977)
 
 ## Publications
 
@@ -31,3 +34,7 @@ This study examined the impact of long-range interactions using the self-consist
 **Funding**: This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 101067977
 
 Jimeno-Pozo, A., Goodwin, Z. A. H., Pantaleón, P. A., **Vitale, V.**, Klebl, L., Kennes, D. M., Mostofi, A. A., Lischner, J., & Guinea, F. (2023). Short versus long range exchange interactions in twisted bilayer graphene. *Advanced Physics Research, 2*(12), 2300048. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/apxr.202300048)
+
+
+<img src="/images/europeancommision_logo.jpg" alt="EU logo" width="50%" />
+<img src="/images/logo.png" alt="MSCA logo" width="50%" />
