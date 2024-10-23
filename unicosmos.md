@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Research
+title: UNICOSMOS
 ---
 
-# Research
-
-Here is a summary of my current and past research projects.
+Here is a summary of my MSCA project **UNICOSMOS** - *Unravelling the intertwined correlated states of matter in moire' superlattices*.
 
 **"The interplay of field-tunable strongly correlated states in a multi-orbital moiré system"**:
 
