@@ -37,4 +37,4 @@ Jimeno-Pozo, A., Goodwin, Z. A. H., Pantaleón, P. A., **Vitale, V.**, Klebl, L.
 
 
 <img src="/images/europeancommission_logo.jpg" alt="EU logo" width="20%" />
-<img src="/images/logo.png" alt="MSCA logo" width="20%" />
+<img src="/images/logo.png" alt="MSCA logo" width="10%" />
