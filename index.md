@@ -17,5 +17,3 @@ This is my personal website where I share my research and academic work.
 - [Codes](codes.md)
 - [Events](events.md)
 - [Contact](contact.md)
-
-

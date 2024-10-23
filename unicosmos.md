@@ -36,5 +36,5 @@ This study examined the impact of long-range interactions using the self-consist
 Jimeno-Pozo, A., Goodwin, Z. A. H., Pantaleón, P. A., **Vitale, V.**, Klebl, L., Kennes, D. M., Mostofi, A. A., Lischner, J., & Guinea, F. (2023). Short versus long range exchange interactions in twisted bilayer graphene. *Advanced Physics Research, 2*(12), 2300048. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/apxr.202300048)
 
 
-<img src="/images/europeancommision_logo.jpg" alt="EU logo" width="50%" />
-<img src="/images/logo.png" alt="MSCA logo" width="50%" />
+<img src="/images/europeancommision_logo.jpg" alt="EU logo" width="20%" />
+<img src="/images/logo.png" alt="MSCA logo" width="20%" />
