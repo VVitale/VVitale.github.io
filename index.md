@@ -7,12 +7,13 @@ title: Home
 
 This is my personal website where I share my research and academic work.
 
-<img src="/images/slowed_down_looping_tmd_gif.gif" alt="Research GIF" width="100%" />
+<img src="/images/slowed_down_looping_tmd_gif.gif" alt="Research GIF" width="50%" />
 
 
 ## Sections
 - [About Me](about.md)
 - [UNICOSMOS](unicosmos.md)
 - [Publications](publications.md)
+- [Codes](codes.md)
 - [Contact](contact.md)
 
