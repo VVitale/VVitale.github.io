@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to UNICOSMOS project's webpage
+# Welcome to UNICOSMOS project webpage
 
 This is a webpage dedicated to the EU MSCA project "Unraveling the intertwined correlated states of matter in moire' superlattices" -- UNICOSMOS
 
