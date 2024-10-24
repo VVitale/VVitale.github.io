@@ -3,7 +3,10 @@ layout: default
 title: About Me
 ---
 
-<img src="images/IMG20240714133612.jpg" alt="Waterfall near Covel lake in Trentino" width="200" />
+<div style="text-align: center;">
+<img src="images/IMG20240714133612.jpg" alt="relaxation" width="200" />
+  <p>Atomic relaxations of a twisted trilayer MoS<sub>2</sub></p>
+</div>
 
 Hi there! I am **Valerio Vitale**, currently a **Marie Skłodowska-Curie Fellow** at the Department of Physics, University of Trieste, working on the [UNICOSMOS](/unicosmos.md) project. My research focuses on theoretical and computational methods in condensed matter physics and materials science, with a special emphasis on **moiré superlattices**. Over the course of my academic journey, I have developed novel techniques in **ab initio molecular dynamics**, contributed to the theory of Wannier functions and its application, and to advancements in the understanding of **strongly correlated states** in moire' materials, such as twisted bilayer graphene and twisted bilayer **transition metal dichalcogenides**.
 

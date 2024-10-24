@@ -4,10 +4,6 @@ title: UNICOSMOS
 ---
 
 Here is a summary of my MSCA project **UNICOSMOS** - *Unravelling the intertwined correlated states of matter in moire' superlattices*.
-<div style="text-align: center;">
-  <img src="/images/summary.jpg" alt="summary_image" width="30%" /> 
-  <p>Schematics of charge-ordered state in a TMD moire trilayer, highlighting the emergence of triangular and honeycomb lattices</p>
-</div>
 
 The recent discovery of various quantum correlated phases, including superconductivity and correlated insulating states, in twisted bilayers of 2D materials has generated significant interest and spurred extensive research into these phenomena, sparking an entire new field of research known as *twistronics*. The ability to engineer quantum states of matter with a few adjustable experimental parameters, such as the twist angle between two 2D layers, represents a major breakthrough in the field of so-called moiré materials. In particular, moiré materials composed of transition metal dichalcogenides (TMDs) have gained considerable traction as a robust platform for simulating quantum phases of matter on emergent 2D lattices.
 
@@ -15,6 +11,10 @@ Although it is widely recognized that enhanced electron-electron interactions dr
 
 In UNICOSMOS I propose to develop an efficient multi-scale framework that integrates various theoretical and computational techniques to investigate quantum phases in TMD moiré superlattices. Specifically, I will combine classical force field calculations, *ab initio* tight-binding methods, and many-body approaches to overcome the limitations of conventional first-principles methods, while preserving their predictive accuracy.
 
+<div style="text-align: center;">
+  <img src="/images/summary.jpg" alt="summary_image" width="30%" /> 
+  <p>Schematics of charge-ordered state in a TMD moire trilayer, highlighting the emergence of triangular and honeycomb lattices</p>
+</div>
 
 [link to CORDIS page](https://cordis.europa.eu/project/id/101067977)
 
