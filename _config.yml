@@ -1,4 +1,80 @@
-title: "Valerio Vitale Research Page"
-description: "Showcasing my research and academic work"
-theme: jekyll-theme-hacker # You can choose a different theme here
+# Site Settings
+title: UNICOSMOS project
+description: > # Use the pipe to write multi-line descriptions
+The webpage for the UNICOSMOS project
+baseurl: "" # The subpath of your site, e.g., /blog
+url: "https://vvitale.github.io/unicosmos.html" # The full URL to your site
+
+# Author Information
+author:
+  name: Valerio Vitale
+  email: valerio.vitale .at. units.it
+  twitter_username: VitaleValerio87  # Your Twitter handle (without the @)
+  github_username: VVitale    # Your GitHub handle
+
+# SEO Settings
+# Jekyll SEO tag will handle the SEO metadata automatically
+seo:
+  title: "UNICOSMOS"
+  description: "Webpage for the MSCA UNICOSMOS project"
+  keywords: "moire,tight-binding,TMDs"
+  twitter_card_type: summary_large_image  # Twitter card type
+  twitter_username: VitaleValerio87
+
+# Social Media Links
+social_links:
+  twitter: "https://twitter.com/johndoe"
+  github: "https://github.com/johndoe"
+  linkedin: "https://www.linkedin.com/in/johndoe"
+  # Add more social links if needed
+
+# Theme Configuration
+theme: centrarium
+
+# Theme Settings
+centrarium:
+  color_scheme: "light" # Options: light, dark, auto
+  accent_color: "#ff6600" # Primary accent color for buttons/links
+  font_family: "Helvetica, Arial, sans-serif" # Customize fonts
+  navbar:
+    show_social_links: true  # Show social links in the navbar
+    fixed: true  # Fixed navigation bar that stays on top when scrolling
+
+# Pagination
+paginate: 5 # Number of posts per page in pagination
+
+# Markdown Configuration
+markdown: kramdown
+kramdown:
+  input: GFM  # GitHub Flavored Markdown
+  syntax_highlighter: rouge
+
+# Permalinks
+permalink: /:categories/:title/ # Custom permalink structure
+paginate_path: "/page:num/"
+
+# Build Settings
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Plugins
+plugins:
+  - jekyll-feed  # Generates an RSS feed for the site
+  - jekyll-seo-tag  # Adds SEO meta tags to the site
+  - jekyll-paginate  # Adds pagination to the blog
+  - jekyll-sitemap  # Automatically generates a sitemap.xml
+
+# Collections (for custom content types like projects)
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
 
