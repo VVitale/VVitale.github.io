@@ -48,6 +48,9 @@ Jimeno-Pozo, A., Goodwin, Z. A. H., Pantaleón, P. A., **Vitale, V.**, Klebl, L.
 
 **"Origin and properties of the flat band in NbOCl<sub>2</sub> monolayer"**:
 
+In this work we explore the intriguing electronic properties of a recently synthesized monolayer of niobium oxychloride (NbOCl<sub>2</sub>). This material features a unique flat band near the Fermi level, a characteristic that can lead to fascinating phenomena such as strong electron correlation effects and potential applications in condensed matter physics. The study explains that the flat band arises due to a combination of the Peierls distortion and the specific electronic structure of niobium atoms in the monolayer. This distortion reduces the symmetry of the lattice, stabilizing the monolayer's structure and contributing to its semiconducting behavior. The research also highlights that the material maintains structural stability even under strain, which suggests potential for integration into flexible electronic devices.
+Additionally, the article delves into the magnetic and optical properties of the NbOCl<sub>2</sub> monolayer. It shows that hole doping can induce a transition from a semiconductor to a ferromagnetic material, with possible applications in spintronics. The presence of a bright exciton with a relatively high binding energy also points to its potential use in optoelectronic devices.
+
 **Funding**: This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 101067977
 
 Mohammad Ali Mohebpour, Sahar Izadi Vishkayi, Valerio Vitale, Nicola Seriani, and Meysam Bagheri Tagani
