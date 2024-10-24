@@ -1,8 +1,6 @@
 # Site Settings
 title: UNICOSMOS project
-description: > # Use the pipe to write multi-line descriptions
-The webpage for the UNICOSMOS project
-baseurl: "" # The subpath of your site, e.g., /blog
+description: The webpage for the UNICOSMOS project
 url: "https://vvitale.github.io/unicosmos.html" # The full URL to your site
 
 # Author Information
