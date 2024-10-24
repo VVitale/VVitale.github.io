@@ -26,7 +26,10 @@ In this article, we explored the complex behavior of **strongly correlated elect
 
 **Funding**: This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 101067977
 
-Campbell, A. J., **Vitale, V.**, Brotons-Gisbert, M., Baek, H., Borel, A., Ivanova, T. V., Taniguchi, T., Watanabe, K., Lischner, J., & Gerardot, B. D. (2024). The interplay of field-tunable strongly correlated states in a multi-orbital moiré system. *Nature Physics, 20*(4), 589–596. [Link](https://www.nature.com/articles/s41567-024-02385-4)
+Campbell, A. J., **Vitale, V.**, Brotons-Gisbert, M., Baek, H., Borel, A., Ivanova, T. V., Taniguchi, T., Watanabe, K., Lischner, J., & Gerardot, B. D.  The interplay of field-tunable strongly correlated states in a multi-orbital moiré system. *Nature Physics* **20**(4), 589–596 (2024).
+
+[Link to Nature Physics](https://www.nature.com/articles/s41567-024-02385-4)
+[Link to arXiv](https://doi.org/10.48550/arXiv.2303.05347)
 
 ---
 
@@ -36,8 +39,22 @@ This study examined the impact of long-range interactions using the self-consist
 
 **Funding**: This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 101067977
 
-Jimeno-Pozo, A., Goodwin, Z. A. H., Pantaleón, P. A., **Vitale, V.**, Klebl, L., Kennes, D. M., Mostofi, A. A., Lischner, J., & Guinea, F. (2023). Short versus long range exchange interactions in twisted bilayer graphene. *Advanced Physics Research, 2*(12), 2300048. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/apxr.202300048)
+Jimeno-Pozo, A., Goodwin, Z. A. H., Pantaleón, P. A., **Vitale, V.**, Klebl, L., Kennes, D. M., Mostofi, A. A., Lischner, J., & Guinea, F.  Short versus long range exchange interactions in twisted bilayer graphene. *Advanced Physics Research* **2**(12), 2300048 (2023).
 
+[Link Advanced Physics Research](https://onlinelibrary.wiley.com/doi/full/10.1002/apxr.202300048)
+[Link to arXiv](https://doi.org/10.48550/arXiv.2303.18025)
+
+---
+
+**"Origin and properties of the flat band in NbOCl<sub>2</sub> monolayer"**:
+
+**Funding**: This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 101067977
+
+Mohammad Ali Mohebpour, Sahar Izadi Vishkayi, Valerio Vitale, Nicola Seriani, and Meysam Bagheri Tagani
+*Phys. Rev. B* **110**, 035429 (2024) 
+
+[Link to PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.035429)
+[Link to arXiv](https://doi.org/10.48550/arXiv.2407.09071)
 
 <img src="/images/europeancommission_logo.jpg" alt="EU logo" width="20%" />
 <img src="/images/logo.png" alt="MSCA logo" width="10%" />

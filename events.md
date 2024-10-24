@@ -13,3 +13,9 @@ One of the most exciting developments in condensed matter physics in recent year
 As a result, moiré physics touches many aspects of condensed matter physics, from blue sky research to cutting-edge technological applications.
 
 [Link to webpage](https://indico.ictp.it/event/10456)
+
+# One-day symposium on scientific machine learning
+
+The symposium focused on cutting edge applications of machine learning techniques in physics, but also in other scientific fields such as chemistry and biology. It will feature two seminars by internationally renowned speakers and contributed talks by young and early career researchers from Trieste research institutions.
+
+[Link to webpage](https://df.units.it/it/eventi/62716)
