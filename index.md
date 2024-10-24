@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Welcome to Valerio Vitale research page
+# Welcome to UNICOSMOS project's webpage
 
-This is my personal website where I share my research and academic work.
+This is a webpage dedicated to the EU MSCA project "Unraveling the intertwined correlated states of matter in moire' superlattices" -- UNICOSMOS
 
 <img src="/images/slowed_down_looping_tmd_gif.gif" alt="Research GIF" width="50%" />
 
